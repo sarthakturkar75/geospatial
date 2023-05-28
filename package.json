@@ -25,6 +25,7 @@
     "dotenv": "^16.0.0",
     "eth-gas-reporter": "^0.2.24",
     "extract-files": "^12.0.0",
+    "ganache": "^7.8.0",
     "ipfs-http-client": "^56.0.1",
     "js-untar": "^2.0.0",
     "next": "12.1.0",
