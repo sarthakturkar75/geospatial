@@ -1,0 +1,117 @@
+{
+  "contractName": "sarthak8",
+  "abi": [
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    }
+  ],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.19+commit.7dd6d404\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/sarthak8.sol\":\"sarthak8\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/sarthak8.sol\":{\"keccak256\":\"0x33e5af5a5ef10fdffa89af33f341e0412960c99013f1a8a4199f0093a72c4ef7\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://11db02dec4ee0b98affbbd2ef0e1e83653103fb22f3aa2d7e9426b0eb22ed80f\",\"dweb:/ipfs/QmdeprkA5bKjK3aFwSx8eYZBD8CmnjL6hoecBioBUggFQc\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea264697066735822122008b0543ebe8d8181b6d34dff9876a0807f41bce3f9b5b7e26a69be90d23f6d6464736f6c63430008130033",
+  "deployedBytecode": "0x6080604052600080fdfea264697066735822122008b0543ebe8d8181b6d34dff9876a0807f41bce3f9b5b7e26a69be90d23f6d6464736f6c63430008130033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "66:50:2:-:0;;;88:26;;;;;;;;;;66:50;;;;;;",
+  "deployedSourceMap": "66:50:2:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: MIT\npragma solidity >=0.4.22 <0.9.0;\n\ncontract sarthak8 {\n  constructor() public {\n  }\n}\n",
+  "sourcePath": "C:\\Users\\sarth\\Documents\\Major\\geospatial\\contracts\\sarthak8.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/sarthak8.sol",
+    "exportedSymbols": {
+      "sarthak8": [
+        171
+      ]
+    },
+    "id": 172,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 166,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.4",
+          ".22",
+          "<",
+          "0.9",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "32:32:2"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "sarthak8",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 171,
+        "linearizedBaseContracts": [
+          171
+        ],
+        "name": "sarthak8",
+        "nameLocation": "75:8:2",
+        "nodeType": "ContractDefinition",
+        "nodes": [
+          {
+            "body": {
+              "id": 169,
+              "nodeType": "Block",
+              "src": "109:5:2",
+              "statements": []
+            },
+            "id": 170,
+            "implemented": true,
+            "kind": "constructor",
+            "modifiers": [],
+            "name": "",
+            "nameLocation": "-1:-1:-1",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 167,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "99:2:2"
+            },
+            "returnParameters": {
+              "id": 168,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "109:0:2"
+            },
+            "scope": 171,
+            "src": "88:26:2",
+            "stateMutability": "nonpayable",
+            "virtual": false,
+            "visibility": "public"
+          }
+        ],
+        "scope": 172,
+        "src": "66:50:2",
+        "usedErrors": []
+      }
+    ],
+    "src": "32:85:2"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.19+commit.7dd6d404.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.13",
+  "updatedAt": "2023-05-28T22:51:15.771Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
