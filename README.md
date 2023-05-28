@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/sarthakturkar75/geospatial/master/public/images/banner.png" alt="banner image"/>
 </div>
 
-# Persssist
+# Geospatial
 
 [![Vercel](https://img.shields.io/github/deployments/sarthakturkar75/geospatial/production?label=vercel&logo=vercel&logoColor=white)](https://persssist.vercel.app/)
 ![Tests](https://github.com/sarthakturkar75/geospatial/actions/workflows/truffle.yml/badge.svg)
@@ -13,7 +13,7 @@ Software toolset for storage browsing and permission based access to geospatial 
 ## How it works
 
 #### Architecture
-This is a dApp or decentralized application with a simple frontend connected with a set of backend services composed by a Smart Contract deployed to Rinkeby testnet and a storage service using IPFS.
+This is a dApp or decentralized application with a simple frontend connected with a set of backend services composed by a Smart Contract deployed to Sepolia testnet and a storage service using IPFS.
 
 The **Smart Contract** role is to store basic information about the users and files stored in the app. 
 
@@ -81,7 +81,7 @@ truffle migrate --network development
 In case you prefer to debug against a deployed Smart Contract on rinkeby.
 
 ```bash
-truffle migrate --network rinkeby
+truffle migrate --network sepolia
 ```
 
 #### Running frontend application
