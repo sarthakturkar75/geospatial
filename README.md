@@ -1,14 +1,14 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/MCarlomagno/persssist/main/public/images/banner.png" alt="banner image"/>
+<img src="https://raw.githubusercontent.com/sarthakturkar75/geospatial/master/public/images/banner.png" alt="banner image"/>
 </div>
 
 # Persssist
 
-[![Vercel](https://img.shields.io/github/deployments/mcarlomagno/persssist/production?label=vercel&logo=vercel&logoColor=white)](https://persssist.vercel.app/)
-![Tests](https://github.com/MCarlomagno/persssist/actions/workflows/truffle.yml/badge.svg)
+[![Vercel](https://img.shields.io/github/deployments/sarthakturkar75/geospatial/production?label=vercel&logo=vercel&logoColor=white)](https://persssist.vercel.app/)
+![Tests](https://github.com/sarthakturkar75/geospatial/actions/workflows/truffle.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Storage web application running on top of Rinkeby testnet that uses IPFS protocol for storing files in an open and decentralized way.
+Software toolset for storage browsing and permission based access to geospatial data using blockchain.
 
 ## How it works
 
