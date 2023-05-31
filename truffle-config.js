@@ -36,7 +36,7 @@ module.exports = {
         const privateKey = process.env.PRIVATE_KEY;
         return new HDWalletProvider(
           privateKey,
-          `wss://sepolia.infura.io/ws/v3/${infuraProjectId}`
+          `https://sepolia.infura.io/v3/${infuraProjectId}`
         );
       },
       from: accountAddr,
