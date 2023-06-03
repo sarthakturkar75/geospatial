@@ -40,7 +40,7 @@ module.exports = {
         );
       },
       from: accountAddr,
-      network_id: 4, // Sepolia's id
+      network_id: 11155111, // Sepolia's id
       networkCheckTimeoutnetworkCheckTimeout: 10000,
       timeoutBlocks: 200,
     },
