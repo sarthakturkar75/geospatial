@@ -78,7 +78,7 @@ In case you're running Ganache.
 truffle migrate --network development
 ```
 
-In case you prefer to debug against a deployed Smart Contract on rinkeby.
+In case you prefer to debug against a deployed Smart Contract on sepolia.
 
 ```bash
 truffle migrate --network sepolia
